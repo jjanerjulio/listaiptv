@@ -1,0 +1,94 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" 
+group-title="México;Latinos",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="México;Latinos",Cinecanal
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" 
+group-title="México;Latinos",De Pelicula Latin America
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" 
+group-title="México;Latinos",De Pelicula Plus
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" 
+group-title="México;Latinos;Deportes",Fox Sports
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" 
+group-title="México;Latinos",Golden Edge Panregional
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" 
+group-title="México;Latinos",Golden Multiplex
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" 
+group-title="México;Latinos",Golden Panregional
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" 
+group-title="México;Latinos",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" 
+group-title="México;Latinos",Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" 
+group-title="México;Latinos",History
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" 
+group-title="México;Latinos",History 2
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" 
+group-title="México;Latinos",Las Estrellas Latin America
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" 
+group-title="México;Latinos",Las Estrellas +1
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" 
+group-title="México;Latinos",Las Estrellas +2
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="México;Latinos",Space
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" 
+group-title="México;Latinos",Studio Universal
+http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-logo="https://i.imgur.com/NVxHxJn.png" 
+group-title="México;Latinos",TeleHit
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" 
+group-title="México;Latinos",Tlnovelas Mexico
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" 
+group-title="México;Latinos",TNT Series
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" 
+group-title="México;Latinos",ViX Jajaja
+https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Latinos",HBO 2 Latin America
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Latinos",HBO Latin America
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://i.imgur.com/i0Qexxd.png" group-title="Latinos",Hola! TV Latin America
+http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8
+
+#EXTINF:-1 tvg-id="truTVLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="Latinos",truTV Latin America
+http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
