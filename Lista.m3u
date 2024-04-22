@@ -1,94 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" 
-group-title="México;Latinos",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="México;Latinos",Cinecanal
-http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" 
-group-title="México;Latinos",De Pelicula Latin America
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" 
-group-title="México;Latinos",De Pelicula Plus
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" 
-group-title="México;Latinos;Deportes",Fox Sports
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" 
-group-title="México;Latinos",Golden Edge Panregional
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" 
-group-title="México;Latinos",Golden Multiplex
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" 
-group-title="México;Latinos",Golden Panregional
-http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" 
-group-title="México;Latinos",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" 
-group-title="México;Latinos",Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" 
-group-title="México;Latinos",History
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-
-#EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" 
-group-title="México;Latinos",History 2
-http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" 
-group-title="México;Latinos",Las Estrellas Latin America
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" 
-group-title="México;Latinos",Las Estrellas +1
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" 
-group-title="México;Latinos",Las Estrellas +2
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="México;Latinos",Space
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" 
-group-title="México;Latinos",Studio Universal
-http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleHit.mx" tvg-logo="https://i.imgur.com/NVxHxJn.png" 
-group-title="México;Latinos",TeleHit
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" 
-group-title="México;Latinos",Tlnovelas Mexico
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" 
-group-title="México;Latinos",TNT Series
-http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" 
-group-title="México;Latinos",ViX Jajaja
-https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Latinos",HBO 2 Latin America
-http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Latinos",HBO Latin America
-http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://i.imgur.com/i0Qexxd.png" group-title="Latinos",Hola! TV Latin America
-http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8
-
-#EXTINF:-1 tvg-id="truTVLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="Latinos",truTV Latin America
-http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 1
+https://xrec99e0.sw-cdnstreamwish.com/hls2/01/01658/cvyhni46ew43_,n,h,.urlset/index-f2-v1-a1.m3u8?t=kXzsKVTKe9wBWp39Ra5aubyzmKe9PpqxTjClSRYxv2M&s=1713543676&e=129600&f=8290682&srv=js4bwlkgfmtmjmvh&i=0.4&sp=500&p1=js4bwlkgfmtmjmvh&p2=js4bwlkgfmtmjmvh&asn=52468
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 2
+https://dozcs6afw8.sw-cdnstreamwish.com/hls2/01/01858/14ljatmlh6ns_,n,h,.urlset/index-f2-v1-a1.m3u8?t=fk5TZ4aK_9pqTn7EKJYI8u2ls1AQpFgmpH2g1wfOGsU&s=1713545432&e=129600&f=9292963&srv=ngr2dnwrdasv7gvg&i=0.4&sp=500&p1=ngr2dnwrdasv7gvg&p2=ngr2dnwrdasv7gvg&asn=52468
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 3
+https://js4bwlkgfmtmjmvh.sw-cdnstreamwish.com/v/01/01983/bk0k4xc7qod2_h/3862_3.mp4?t=Hld6IiLBDHm_55nqsmGe_JI5-ew-47DBIfQZoJRJSPE&s=1713545624&e=129600&f=9916353&sp=400&i=0.0
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 4
+https://gy4kxlg7mxrdxe7k.sw-cdnstreamwish.com/v/01/02080/2ra9qaimptx7_h/3862_4.mp4?t=5fVjeY_x0GGRhAj1ZJWT3NSD8Mw_vhM67RrZAUfUzxk&s=1713545707&e=129600&f=10400364&sp=400&i=0.0
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 5
+https://872335276.tapecontent.net/radosgw/Qe4mDqGg3xC0QKr/z4Ru0qlFGSe7lH0HReKFodm-x2Ns9OrgokiC99Dj-GrS2ga7AdFbhMnwZ5ZlG6RscSWCcNQAsuHDjFKSa7grsUct4VuLgV0zTn3leCs4dUWt9LHi0nFyov2lSNVYNsRTsaFoDDcDtUQkjU_IqRHfQMGWQ80MYx22WLwgyamvsOLnaTh3C9Rh8XQCmkL5WMkQuOK8LbwmqMeMbBAIQb7C-_CL4mTsAJ5SBlvHfLB6RHHS0Ar6t1vQBNs7EG5EWLz5EuT1vYkNYBmm2eCv/3862_5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 6
+https://2371813894.tapecontent.net/radosgw/DqG2epyb18sk2D1/9HnSxEk4aNJk0HzQrEdm5tQ-KpJAjQ_rInXPp_sSexhlhESWNWnoletGUkdPEqfb3gBw-W-48nlc8G8xh5uB48QT6LPT6bPUZO3xaryoNOe0-ESEZrGn__gC7xOoTBqGMjA9_jotSX3ohODq1udgbMTdptl2LzoCqkTXy6hZyl0uP_xPXrtLkYl8NRiZXG4KNT5ums31JPPs4K5BhQ9uufU86PKe5XglT5B6ytwufTm559p-O0dZzhLSBFRJHGPEnhQ_0r7UcaqtH7VA/3862_6.mp4?stream=1
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 7
+https://860147634.tapecontent.net/radosgw/oA0xQgM72WFKzV/X0QzR0s0bOJ-YElkMXlMR64HQnYnoIxGMFgyQEJlqOizZCyUzwukVYXi0y23J-BROQG3FeWdyJXNyTEaWuxwCf7YKGvLldGDkHK5eT_gEuTQvTWuKcoztkTobMWVMuCW4c6Y7GUUii7ElYgZN28au7D-IK7xqnSco2-8J71a7iUpIs94TNGyyrTd8_kz8jHUONGuiW_aVinw0ahTwrCI9PYktu3r6ZOTcol8opC0XYOU_lI6KGzlPsJp0-axTSoZWZzrEK99NS3F1pg7/3862_7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 8
+https://858142514.tapecontent.net/radosgw/yd1qYQ0jz4Fy4K/logG88Qe5z5ihssbUyPwYa7a87LHUTwV32cVnGENUCXE9_TDWAybowcGisxsxlAtlqHDOvY3yqSwbrqFOn6U8uGQPOpBETl5rVxnJYPu1SyXNlXAFn6RRT5y5BXmGuqNekU1V9NlTYdS2qn36z7gxXtQ5VKVLj4-lyigG6dZAPcgjKAcq54Lns2oB0tiydoQUyjTbFV5XyVw6ztcVKOaKYImbbA69Ae77TmQsDoEdqGK-VQ46nvWhh7M76NnA5mm9wZ761IpWUgxP0YP/3862_8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 9
+https://1334396495.tapecontent.net/radosgw/aYDvQqKjmeCxj0B/qbGUAZCkmjU2RsDT_3t4HkXlk1JvV2lrFpsSnRy6ffaQ7dPUlR1Frp7Sn8ejT5o0Wb0Ms38QNQZkFHy-Q3BNTkAFH0jBjEQMM4_1DVFISNvi1Cp_Uw8JNa4GDvlXfVqcWwd_awsyXencZyM2WD_ShxysZMld0lSiUGfheWOqfWmQp7nKCNI7HJ875vRTqoX4ture0_FBAaWRMRZI5OKQw3l32A7gnQAI4AAjqfa55MXQX9gmnqL_EKgRZGZreDWHUNrSFjCWYnbm-64G/3862_9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 10
+https://2371755326.tapecontent.net/radosgw/XBBWAQVgmaFD4OX/0AkC5i3dJGN0nLQYsJGNC1X8x5rxCYWQw7fOrC1B6jZ4Q_4HKoc50k7KJENRpidErM_530YNVqcnuWwIqMf1GVKzRoryBOedRXAuForlGgd7qweU78oSkO7EvZHrPoHa8yBjOWsrjp18OQ6aqM--SyVBd8AjMq8jdIUbKm4FQU1UZOxOe2JFH3NhyVmWIip1J54XVgwuRE57flUIDAnmQAJ6Cxy8U5n_C2IywWXHD3SrIPxvWw3925y3M3SpBLW9Lv7ntTOxxGrjqA3F/3862_10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 11
+https://2453340478.tapecontent.net/radosgw/q9a1GkXY1mUzQwx/awFxyDWueT-w40C1a5CiELOBvQjHN_DjuIsqGEJQOGyp-fwtzzgnRLphj05bZ4VsHIaeiQd2dJyHqg_P9fNWnxJjp5qgR7LwJ2VM2hPW9mEoNKdwnPtO8URmJW_aP5gSUnNH8-vluRhIyDyYsRAPX40pFpmPYRU70jZGLHWrMvd_nfb11p9O9Zj4TZfV2AKESWdqJnx4L69LFGppF2CrCLjvK7KfGukTBBoELuBSgpMEJReN0ydKOnB62njOYX6s6TTvT3i4-FyYGfDj/3862_11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 12
+https://868418907.tapecontent.net/radosgw/xPWrBj8RAYhkKAm/qUFe4IEc62Bhst6dvVTEdMk0O1rS1NQKC8Iz-5-95AgYfXDd_iVHj-3nwLBtK-_9ZGlOLedp6JE4MB4K4lR4zpAOZ_7bMt7y8hUFWGvoiV4pJ0hKcv0SVu-Dv951SWjO4Wztd7XPYWwMFgy6VertuWhW1bkr0ygYmNqAX_dEf02ghZ7iJa2xmxkR67BdPnBj5843023OodYf6KLtxITcAx_pKqDtAPI4RUCxwPyftYicTG8jN7TVKNR-YtSQrjfJEnrJROtXv1Ebk6aF/3862_12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 13
+https://2448361320.tapecontent.net/radosgw/bgVzvZD0AliPvyO/rhZm3npRfqZSlU7kas89N2W-m-h366d4OBVfzD5sKaHY-lcNzW8mjUobH3PtXWPyckWCiVxoemhuM8aCl5UQvaH24g4frH4ylz2E9VZiYkAVA_yPHfydMfO6qaKXEyq_PWrfTwi5fzr8BniZDD7iKZKuUTt_SgQUjay1jZ3Enb1aozJMK2SeiaO__Qdia8qfSVp7uUuwJ4F1-3Bt14g5_zoqm_ruly1QCnHqohrccKy9aDY3XMw2vYbxRw_XhTFxiO1AMRwSsqFKJuDk/3862_13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 14
+https://860718372.tapecontent.net/radosgw/QA0xLW80bJS038Z/qb9R0TgDF9C4dNMyC1R4Xe9ObJScar006K_H0VPjoQ46ynuKNUILE0P5EvIfxcMGXdEVefOrIo5HVQ5PHViWyL3mb9ndrfVwhYcMeudtNx_XjEiSePN6bo6v85ybte6hdJEoZvafrToBIyG-JfaW6tRv8EU4rRR3QKPZWIgMapiZ-gDeiXQgeTI-nLUB8VjB7fmYpezP1DJcOihb5Figy2Nccm76obmbk7Uaw6a_HrrkBhnA83zmjnr1ImPBNSZo4HIM6exLUzA0klyI/3862_14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 15
+https://3242621514.tapecontent.net/radosgw/1a8xvdr1vZup3x/aMp1DcBq6bNQkSHN9PodDw69GJdJ2tiPVfZXh6O6Y1uzV82bY_q203Yloq6NuZYDeKyIsNnWMgMO9b8DjOYscR_CkbquPL8tiNFGiN4C6KF0c75-lyPKN_-HL16Gv2D4qI-_AdkcWco88ZSSmk8ngztzGHfCSS4x_7FEzs4jMD8g5f4xbRMrAPbGOz-6ZMnksmSXbBO2_ZFxdmtIu5wywU5f5lLH9lVlWSFd4RU9qC7hLbv8Dgr4-M1xBtw3yzm7_dwTSmM5lcVD6aq-/3862_15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 16
+https://2475154806.tapecontent.net/radosgw/pbBAdmk0y4Tr2Pm/zJZl7zpjtnIYKEQ2PcuNh1lTLtkrzP7_L1Kvtgcaq-lRrOpVwvKFdnrsriQi2lWS4ad7SGS1XWV7g5VrZUTwJS5Elkq04j1nYdm9GxefkghJZXd8z82gHWbfDtRepG-1kxIpmdvcu2nY94frpxTqYGSze3TauZ5nQ3e-t_kwm2OWD5rhCY19iFItIDzdpVvaAzE2dJfwU0R0IzdAJRTp0yk5dWzJvBib0ldaBko8KDOL6GC8tbC5rALOoutHOKl8gXga-6wGwzQroCDh/3862_16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 17
+https://2371755320.tapecontent.net/radosgw/Apber4RopJUXpgw/QIj8jOzWpHGeW_usfe18SfJjJo1YJ-ANu5XwnedF08WdteOSRWRETLzFwphaIIECTIt4Ox5DX_TValjCOsFnvKnZbA4sdEvEKtXtwlmId41zE8rvTtJQB32F0_jiyjK3oJRmaHsZc0gDccs3jOpmjKT5U_-h4fFCPaVO6QGtXZSbnFJBi0iYfghOJ_TKJTMEsbnigr9BgiOPpjyDLL2_VV4wLz876AWGFtchOh1iJTGD2WfjGAWdG006MJ-SdvAJKvyjbhotqPB9AQyu/3862_17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 18
+https://858142481.tapecontent.net/radosgw/96k6yl1PoMfZj6/zOjU90Il6ae3fJtho_OBycVC5zyyJje9CYHZJRd4IamJ1YQeVSKUR_W0Df8bykEabShArTz0apIpmQTyyVTph3xoS4Dj6j-YKPxD7f2YY2g28aqiTgjomGvTT2EaGZorv2Zo0DuuP1y1aHHLTlIQKJbByeurWAzeyOK7_NpnxxYdj_WxUNWutMIzIFSHeui6svIvxtFVW3iVyP9u1FmaYGkuDuYXCctuDEfYrvl4fXU9XLf17eoM8_GWS_VHYbOkXVdIPT7q0L41e9Cz/3862_18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 19
+https://860568899.tapecontent.net/radosgw/Rmz8YjlvlkUdepM/QUjD4JdOBc7T7F3izL9GyppMJhRRGpkAm-mm3QJGbwtS72FR8KhlZbRw5mirvUyvF0UTk7fuQAcjfMAMuORHdOvspDTjDQAdDxGGvaIBzKomzjDYSK_iTddDxh_PK8oTNz1i6sET3H1sjRSOJ5tCP6B2kI0-ukhs-Cl_Cz_kRNZ583K0v-JVtVuiP_-V5MXwM0ukSKlMOIOjYGZLP8Ebt9IE_ZeS_RIaFBimaZLUzWukY-A1nuzlhb9d68ArIBYWBFQPxr8Y1jOs9SQL/3862_19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 20
+https://908357271.tapecontent.net/radosgw/Qdkz0dwPxzUgkp/XyPtdrBSFSJr1SPB_R_fV2F7qYzuADhdVtfViF1OyiXScSYTFY5JB5zhXgn8q69FXJGPT_4u15pjIZHyFLsIcHL05YYfh06ubnJiUnoXWDEtCcVYPfd7KnP-vTR4SRWkyDUEbLbpI1hjVntuh5xk5hK3lyvf4X5CGJgHyjwxFhuSMMgH42kY9axuHTIXPwJoHZEI33TtusfGK_PhWwzOfafvhuAki-udA8s4C2Sp-GmZiEoHGiUKaoPT-ibtaU3IB4gzlowHjNwPJpBt/3862_20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 21
+https://2565136225.tapecontent.net/radosgw/OYKQb1Xxj1uZqKx/650bm6-US7n7aQX51B4td68ZjG6VET19pTZGR64xCwWx7RfgeTDC-5XKv0lkYLSB7xG5EIP1XSS1NVpUDVYQIoR2GOWiaUzkyslQSnUbX9wIhwn06Su19CYdy9z8sllNaf0oWM8UWTSkLWjyL1EaZncthgXP8wC8NFKVclML5XSpPbMABr_KyrUej-h86N0el64444Fw4p_-D5sUg93nM8ACa2iTAnXOgSqrgjoh6LmXHBsr63lnW56L2xuv0ftmpdVik67FbGy8n-dG/3862_21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 22
+https://868419167.tapecontent.net/radosgw/oZJAwAQeV0hJBvG/x9P4nxBehp4Em-cUCWzNkRXaNQBNomxd6gfDW-Vwo6GJRX6tDEhTHVppFIHvp2XDhg25K1WUslbeYi5UwxOKei7MvLSF2GjUXvsdHZaWP7Ag7wMgAsZBy5JScQJ9q3Voj6gUBO3UZICcdUmU21GIB08xl8pbOan4r2WNPUtRvl8LPZ1qZmAPuzKBFeH0dqsboeD8iVwAq3jc1EsOw4CcmsKskwS5gS2hX00khYRmIiF4rLpwpZXwSZRlVfK2B63Vk1p166DPQyHRLLwD/3862_22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 23
+https://2448409167.tapecontent.net/radosgw/yA021gAvZlC1qdj/txJedLO5GCwfUgT9pYhtsu2WHgSRoUGUtSQQWxJyvXfWFIw2NW3i8CRg5d7gK8DpvXgJje01i7kTOfKV-Y1fJWHJK5X-CT_19c2pIQbkCYCgkuhrQBFFxt4GTdsQw8abtRxbwzufst-RCU9PPr16_6DJZr3g6LkXbwGq9jR-um7vE-cN1LbXK3u18soCMWrhd2d_rZOE7dNVXMsxnVg5gEkbUvmVv9ifSLMimXzWXSg3PZQOXX6ezv9tsl5dgabOZmXXRc_YIdncl7vb/3862_23.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ragna Crimson" tvg-logo="https://a.storyblok.com/f/178900/1060x1500/be2dfdc241/ragna-crimson-key-visual.jpeg" group-title="Ragna Crimson",Capitulo 24
+https://2475154809.tapecontent.net/radosgw/owaORpzGRkFOkl/JurhBGe5ASoSahWp96GlemvYwyZkXxdbvhTC7jcx4tPSXCa1oiTQtNyvCz1Y8BB5L8APhkssIieCDiqPmrsQAnpb2sO40kgxsERElci0lLv9CB2XoLywTzFjH90OrAs_GYiM8YFt9NqVf6aDN2chLjWcDHEtf5Ak2PRTi5fZVAKLz8uz2UHbrcP8LK5psWX-EKrijPXnw4q7ZJEBQv92XdAjo9N3Wfc0d6c6pkwXanqRQSN35UO9XVxOXijo8rUyiG0CpH_8bBJamrJs/3862_24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interestelar" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/79194981293eabf6620ece96eb5a9c1fffa04d3374ae12986e0748800b37b9cf.jpg" group-title="Peliculas",Interestelar
+https://sp.rmbl.ws/s8/2/K/D/n/t/KDntm.aaa.mp4
